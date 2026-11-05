@@ -1,0 +1,13 @@
+{
+  "name": "tokengap",
+  "owner": {
+    "name": "j0lean"
+  },
+  "plugins": [
+    {
+      "name": "tokengap",
+      "source": "./"
+    }
+  ],
+  "description": "Bande Claude Code : quel Opus utiliser et jauge des limites d’usage."
+}

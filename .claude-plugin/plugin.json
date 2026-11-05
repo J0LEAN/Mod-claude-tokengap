@@ -1,0 +1,10 @@
+{
+  "name": "tokengap",
+  "version": "0.1.0",
+  "description": "Petite bande au-dessus du prompt : quel Opus utiliser (qualité max / meilleur rapport qualité-coût) et jauge de tes limites d'usage.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "j0lean"
+  }
+}
